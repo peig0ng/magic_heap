@@ -1,6 +1,5 @@
-```tex
 # super_libc 🔧
-
+```tex
 > 一款用于CTF Pwn挑战的自动化GLIBC修补工具，支持交互式版本选择和路径自动检测
 
 ## 功能特性 ✨
@@ -17,6 +16,7 @@
 ### 前置要求
 - Ubuntu系统（推荐20.04/22.04）
 - `patchelf`工具
+- glibc-all-in-one
 
 ```
 

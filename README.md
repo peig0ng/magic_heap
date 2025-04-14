@@ -1,6 +1,7 @@
 # super_libc 🔧
 ```tex
 > 一款用于CTF Pwn挑战的自动化GLIBC切换脚本，支持交互式版本选择和路径自动检测
+以及通过操作glibc-all-in-one每次调试自带符号表，详细操作见md文件
 
 ## 功能特性 ✨
 
